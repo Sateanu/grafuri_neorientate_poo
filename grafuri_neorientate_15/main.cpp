@@ -229,6 +229,20 @@ int Graf::is_conex()
 
 	return 1;
 }
+void Graf::stergeNod(int nod)
+{
+	for(int i=0;i<n;i++)
+	{
+		for(int j=nod;j<n-1;j++)
+			mat_adiac[i][j]=mat_adiac[i][j+1];
+	}
+	for(int i=0;i<n;i++)
+	{
+		for(int j=nod;j<n-1;j++)
+			mat_adiac[j][i]=mat_adiac[j+1][i];
+	}
+	n--;
+}
 int main()
 {
 	ifstream f("graf.txt");
