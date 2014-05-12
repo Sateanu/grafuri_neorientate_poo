@@ -1,13 +1,14 @@
-﻿Build started 08.04.2014 18:40:50.
-     1>Project "C:\Users\Andrei\Documents\Visual Studio 2013\Projects\grafuri_neorientate_15\grafuri_neorientate_15\grafuri_neorientate_15.vcxproj" on node 2 (Build target(s)).
+﻿Build started 12.05.2014 17:23:37.
+     1>Project "C:\Users\andrei.aldea\Desktop\Grafuri\grafuri_neorientate_poo\grafuri_neorientate_15\grafuri_neorientate_15.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="12.0". This toolset is unknown or missing. You may be able to resolve this by installing the appropriate .NET Framework for this toolset. Treating the project as if it had ToolsVersion="4.0".
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Andrei\Documents\Visual Studio 2013\Projects\grafuri_neorientate_15\Debug\grafuri_neorientate_15.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Andrei\Documents\Visual Studio 2013\Projects\grafuri_neorientate_15\Debug\grafuri_neorientate_15.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Andrei\Documents\Visual Studio 2013\Projects\grafuri_neorientate_15\Debug\grafuri_neorientate_15.lib" /MACHINE:X86 Debug\main.obj
-         grafuri_neorientate_15.vcxproj -> C:\Users\Andrei\Documents\Visual Studio 2013\Projects\grafuri_neorientate_15\Debug\grafuri_neorientate_15.exe
-     1>Done Building Project "C:\Users\Andrei\Documents\Visual Studio 2013\Projects\grafuri_neorientate_15\grafuri_neorientate_15\grafuri_neorientate_15.vcxproj" (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\andrei.aldea\Desktop\Grafuri\grafuri_neorientate_poo\Debug\grafuri_neorientate_15.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\andrei.aldea\Desktop\Grafuri\grafuri_neorientate_poo\Debug\grafuri_neorientate_15.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\andrei.aldea\Desktop\Grafuri\grafuri_neorientate_poo\Debug\grafuri_neorientate_15.lib" /MACHINE:X86 Debug\main.obj
+         grafuri_neorientate_15.vcxproj -> C:\Users\andrei.aldea\Desktop\Grafuri\grafuri_neorientate_poo\Debug\grafuri_neorientate_15.exe
+     1>Done Building Project "C:\Users\andrei.aldea\Desktop\Grafuri\grafuri_neorientate_poo\grafuri_neorientate_15\grafuri_neorientate_15.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.87
+Time Elapsed 00:00:04.32
